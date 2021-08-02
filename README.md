@@ -1,1 +1,2 @@
-# Todo_VanillaJS
+# Todo VanillaJS
+The Todo app without any javascript framework.
